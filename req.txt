@@ -1,0 +1,19 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+torchvision
+pydicom
+opencv-python
+Pillow
+albumentations
+tqdm
+Flask
+fastapi
+uvicorn
+joblib
+
+-e .
